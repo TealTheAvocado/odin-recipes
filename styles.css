@@ -2,7 +2,7 @@ p {
     color:teal
 }
 * {
-    background-color: lime
+    background-color: lime;
 }
 
 ol.steps {
@@ -11,5 +11,5 @@ ol.steps {
 }
 
 ul {
-    background: salmon
+    background: salmon;
 }
