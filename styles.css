@@ -1,6 +1,9 @@
 p {
     color:teal
 }
+* {
+    background-color: black
+}
 
 ol.steps {
     color:aquamarine;
