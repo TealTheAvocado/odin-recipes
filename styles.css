@@ -2,7 +2,11 @@ p {
     color:teal
 }
 
-.steps{
+ol.steps {
     color:aquamarine;
     background-color: black;
+}
+
+ul {
+    background: salmon
 }
